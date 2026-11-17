@@ -1,0 +1,6 @@
+{
+  "name": "Feira da Lua — Gestão Administrativa",
+  "description": "Painel administrativo para gestão de feirantes, edições, participações e pagamentos da Feira da Lua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
